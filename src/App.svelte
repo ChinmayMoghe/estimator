@@ -1,7 +1,10 @@
 <script lang="ts">
+  import AddObjectToScreen from "$lib/AddObjectToScreen/AddObjectToScreen.svelte";
 </script>
 
-<main></main>
+<main>
+  <AddObjectToScreen />
+</main>
 
 <style>
 </style>
